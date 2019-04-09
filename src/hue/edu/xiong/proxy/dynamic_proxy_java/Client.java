@@ -12,7 +12,7 @@ public class Client {
     //每个方法开始和结束时间
     public static void main(String[] args) {
 
-        IStar star = new Star("XiongYuSong");
+        IStar star = new Star("Xiong JavaProxy");
         InvocationHandler handler = new DynamicProxy(star);
         IStar star1 = (IStar) Proxy.newProxyInstance(handler.getClass().getClassLoader(), star.getClass().getInterfaces(), handler);
         star1.doActivity();

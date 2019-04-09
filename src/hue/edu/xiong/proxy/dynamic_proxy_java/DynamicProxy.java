@@ -30,11 +30,11 @@ public class DynamicProxy implements InvocationHandler {
         /*
          * before ：doSomething();
          */
-        System.out.println("开始时间："+new Date());
+        System.out.println("JavaProxy实现代理：开始时间："+new Date());
 
         Object result = method.invoke(this.object, args);
 
-        System.out.println("结束时间："+new Date());
+        System.out.println("JavaProxy实现代理：结束时间："+new Date());
         /*
          * after : doSomething();
          */

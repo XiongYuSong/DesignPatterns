@@ -6,7 +6,7 @@ package hue.edu.xiong.proxy.static_proxy;
  */
 public class Client {
     public static void main(String[] args) {
-        IStar star = new StarProxy(new Star("XiongGe"));
+        IStar star = new StarProxy(new Star("Xiong Static"));
         star.doActivity();
     }
 }

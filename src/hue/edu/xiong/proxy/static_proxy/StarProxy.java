@@ -14,8 +14,8 @@ public class StarProxy implements IStar {
 
     @Override
     public void doActivity() {
-        System.out.println("活动前洽谈！");
+        System.out.println("Java静态实现代理：活动前洽谈！");
         star.doActivity();
-        System.out.println("活动后结算！");
+        System.out.println("Java静态实现代理：活动后结算！");
     }
 }
