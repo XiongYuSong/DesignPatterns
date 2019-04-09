@@ -1,4 +1,4 @@
-package hue.edu.xiong.proxy.dynamic_proxy;
+package hue.edu.xiong.proxy.dynamic_proxy_java;
 
 /**
  * @Author Xiong YuSong
