@@ -1,4 +1,7 @@
 # DesignPatterns
+
+## lib中jar包导入项目中即可使用
+
 ## 设计原则
 
 1. 开放封闭原则
