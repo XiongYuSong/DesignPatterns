@@ -26,6 +26,6 @@
 1. 
 1. 
 1. 
-1. 
+1. [外观设计模式](./src/hue/edu/xiong/facade)
 1. [享元设计模式](./src/hue/edu/xiong/flyweight)
 1. [代理设计模式](./src/hue/edu/xiong/proxy)
