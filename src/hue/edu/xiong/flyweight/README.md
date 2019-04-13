@@ -1,4 +1,5 @@
-# DesignPatterns
+# [DesignPatterns](../../../../../README.md)
+
 ## Flyweight(享元)设计模式
 
 ### 意图
