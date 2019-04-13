@@ -22,10 +22,10 @@
 
 
 #### 结构型
-7. 
-7. 
-7. 
-7. 
-7. 
-7. [享元设计模式](./src/hue/edu/xiong/flyweight)
-7. [代理设计模式](./src/hue/edu/xiong/proxy)
+1. 
+1. 
+1. 
+1. 
+1. 
+1. [享元设计模式](./src/hue/edu/xiong/flyweight)
+1. [代理设计模式](./src/hue/edu/xiong/proxy)
