@@ -1,4 +1,4 @@
-# [DesignPatterns](../../../..)
+# [DesignPatterns](../../../../../)
 
 ![Image text](../../../../../img/代理设计模式.png)
 
