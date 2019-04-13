@@ -27,5 +27,5 @@
 7. 
 7. 
 7. 
-7. [享元设计模式](./src/hue/edu/xiong/flyweight/README.md)
-7. [代理设计模式](./src/hue/edu/xiong/proxy/README.md)
+7. [享元设计模式](./src/hue/edu/xiong/flyweight)
+7. [代理设计模式](./src/hue/edu/xiong/proxy)
